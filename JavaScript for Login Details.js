@@ -1,4 +1,4 @@
-JavaScript for Login Details
+//JavaScript for Login Details
 
 //Number of Attempts
 var attempt = 3;
