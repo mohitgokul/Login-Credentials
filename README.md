@@ -1,5 +1,7 @@
 # Login-Credentials
 
+#### Creating a Login page to enter into the website
+
 ## Objective
 1.	Designed a Login form which provides access to other resources. 
 2.	Developed a simple HTML form using JavaScript to validate the Username and Password with the database.
